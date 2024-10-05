@@ -1,0 +1,22 @@
+
+
+.contactus-box{
+    background-color: #1c1816;
+    border-radius: 5px;
+    height: 100%;
+    padding: 20px;
+}
+
+.contactus-box h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+.contactus-box h5{
+    font-size: 20px;
+}
+
+.i{
+    color: #ea002a;
+    font-size: 20px;
+}

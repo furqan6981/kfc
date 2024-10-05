@@ -1,0 +1,11 @@
+.cardss{
+    background-color: #212529;
+}
+
+p,h2,h3, h4, h6,h5, li{
+    color: white !important;
+}
+
+p span{
+    font-size: 22px;
+}
